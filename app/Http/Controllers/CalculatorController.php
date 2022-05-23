@@ -27,8 +27,4 @@ class CalculatorController extends Controller
 
     }
 
-    public function printName()
-    {
-
-    }
 }

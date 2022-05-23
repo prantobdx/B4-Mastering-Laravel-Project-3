@@ -28,7 +28,7 @@
                         <div class="form-group row">
                             <label for="" class="col-md-4 col-form-label">Result</label>
                             <div class="col-md-8">
-                            <input type="text" class="form-control" value="{{ isset($fullName) ? $fullName:'' }}">    
+                            <input type="text" class="form-control" value="{{ isset($fullName) ? $fullName: '' }}">    
                             </div>
                         </div> 
                         <div class="form-group row">
