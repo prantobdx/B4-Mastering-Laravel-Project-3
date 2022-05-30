@@ -19,5 +19,3 @@ Route::get( '/student', [StudentController::class, 'student'] )->name( 'student'
 Route::post( '/get-full-name', [FullNameController::class, 'getFullName'] )->name( 'get-full-name' );
 
 Route::post( '/get-calculator-result', [CalculatorController::class, 'getResult'] )->name( 'get-calculator-result' );
-
-//  56:30 C:30
